@@ -6,7 +6,7 @@ This project analyzes supplement sales data from 2020 to 2025 using SQL, Python,
 ## 📁 Files Included
 
 1. **Supplement_Sales_Weekly_Expanded.csv** - Source dataset used in the analysis.
-2. **Supplement Sales Data (2015–2020).sql** - SQL schema and queries (still applicable for the 2020–2025 dataset structure).
+2. **Supplement Sales Data (2020–2025).sql** - SQL schema and queries (still applicable for the 2020–2025 dataset structure).
 3. **supplement_sales_data.py** - Python script for analysis using pandas, matplotlib, and seaborn.
 4. **Supplement Sales Data.pbix** - Power BI report file with interactive dashboards.
 5. **README.md** - Project overview and usage instructions.
